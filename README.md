@@ -10,5 +10,12 @@
  -  Phones has highest sales in subcategory.
  -  Standard class is most prefered shipmode.
 
- 
+ ## Business Recommendations
+
+- Focus marketing efforts and inventory planning on the **West region**, as it generates the highest sales.
+- Plan targeted promotions and seasonal campaigns during **Q4**, especially in **December**, to capitalize on peak sales and profit trends.
+- Strengthen and streamline **Cash on Delivery (COD)** and **Online payment** options to align with customer payment preferences.
+- Prioritize high-performing categories such as **Office Supplies** and high-demand sub-categories like **Phones** for upselling and bundling strategies.
+- Develop customer retention strategies focused on the **Consumer segment**, which contributes the majority of sales.
+- Optimize logistics and cost efficiency around **Standard Class shipping**, as it is the most preferred shipping mode.
 
